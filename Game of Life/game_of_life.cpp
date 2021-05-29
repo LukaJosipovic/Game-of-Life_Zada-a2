@@ -4,7 +4,7 @@
 
 bool game_of_life::slucajna_vrijednost()
 {
-	return rand() % (1 - 0 + 1) + 0;;
+	return rand() % 4 == 0;
 }
 
 bool game_of_life::celija_zauzeta(int i, int j)
@@ -96,7 +96,14 @@ void game_of_life::iscrtaj()
 	{
 		for (int j = 0; j < STUPACA; j++)
 		{
-			cout << _generacija[i][j];
+			if (_generacija[i][j] == 0)
+			{
+				cout << '.';
+			}
+			else
+			{
+				cout << '#';
+			}
 		}
 		cout << endl;
 	}
