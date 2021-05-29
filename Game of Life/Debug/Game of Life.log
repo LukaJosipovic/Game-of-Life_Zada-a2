@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+D:\ScreenRec\Strukture podataka i algoritmi\DZ2\Game of Life\Game of Life\Game of Life\game_of_life.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game of Life.vcxproj -> D:\ScreenRec\Strukture podataka i algoritmi\DZ2\Game of Life\Game of Life\Debug\Game of Life.exe
