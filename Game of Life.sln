@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game of Life", "Game of Life\Game of Life.vcxproj", "{85022A01-A863-46AE-8831-5880BDE2BA27}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bool", "bool\bool.vcxproj", "{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{85022A01-A863-46AE-8831-5880BDE2BA27}.Release|x64.Build.0 = Release|x64
 		{85022A01-A863-46AE-8831-5880BDE2BA27}.Release|x86.ActiveCfg = Release|Win32
 		{85022A01-A863-46AE-8831-5880BDE2BA27}.Release|x86.Build.0 = Release|Win32
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Debug|x64.ActiveCfg = Debug|x64
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Debug|x64.Build.0 = Debug|x64
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Debug|x86.ActiveCfg = Debug|Win32
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Debug|x86.Build.0 = Debug|Win32
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Release|x64.ActiveCfg = Release|x64
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Release|x64.Build.0 = Release|x64
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Release|x86.ActiveCfg = Release|Win32
-		{1ABAA3C2-7F6C-46BB-BBDF-7DC9F2949836}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
